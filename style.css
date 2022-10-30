@@ -303,22 +303,56 @@ footer{
 
 
 @media only screen and (max-width: 600px) {
+    
+    body{
+        background-image: url(./bg1.gif);
+        background-size: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    nav ul li a {
+        font-size: 15px;
+
+    }
+
+
+
 
     .conteudo1{
         width: 100%;
         height: 800px;
-        background-color: aqua;
+        
 
     }
 
     .texto1 h1{
-        font-size: 50px;
+        font-size: 30px;
         width: 87%;
     }
 
     .separate{
-        width: 50%;
+        width: 30%;
     }
+
+    .texto2{
+        width: 100%;
+        font-size: 30px;
+        
+    }
+
+    .texto2 h3{
+        font-size: 30px;
+
+    }
+
+    .texto2 p{
+        font-size: 13px;
+    }
+
+
+
+
 
     
 

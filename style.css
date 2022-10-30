@@ -343,7 +343,7 @@ footer{
     }
 
     .texto1 h1{
-        font-size: 50px;
+        font-size: 40px;
         width: 87%;
         
         height: 300px;
@@ -358,14 +358,14 @@ footer{
     .texto2{
         width: 87%;
         height: 350px;
-        font-size: 40px;
+        font-size: 30px;
         padding: 65px 15px;
         
         
     }
 
     .texto2 h3{
-        font-size: 40px;
+        font-size: 35px;
 
     }
 
